@@ -46,3 +46,7 @@ To make this project work you need to create a Json File named as form-registrat
 
 # Logging:
 The Log file will also be generated in the C:\Temp folder.
+
+Note:- THis project is build on .NET framewrok 4.6.1 as after upgrading the projet to 4.7 or 4.7.1
+ Unity framework warnings were coming when I updated Unity.WebAPI dependency the Dependency injection stopped working.
+ So most of the blogs suggested to move back to previous version.
